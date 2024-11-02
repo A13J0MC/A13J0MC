@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alejandro </h1>
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=python,postgresql,git,snowflake,spark,linux,docker,kubernetes" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,postgresql,jupyter,git,snowflake,spark,linux,docker,kubernetes" />
 
 
 
