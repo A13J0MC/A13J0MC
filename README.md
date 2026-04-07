@@ -58,7 +58,7 @@ Data Engineer with **4+ years of experience** building data pipelines, reconcili
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A13J0MC&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A13J0MC&theme=dark&hide_border=true&layout=compact&count_private=true" height="160" />
   <img src="https://streak-stats.demolab.com/?user=A13J0MC&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" height="160" />
 </p>
 
